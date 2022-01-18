@@ -1,3 +1,3 @@
-# #3 - Flutter BLoC Concepts - BlocProvider, BlocBuilder, BlocListener & More
+# Flutter BLoC Concepts - BlocProvider, BlocBuilder, BlocListener
 
-This project contains the files I used into #3 - Flutter BLoC Concepts video on Flutterly YouTube Channel.
+These concepts are base on Counter App
